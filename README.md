@@ -10,3 +10,7 @@ Lab 7 - Hash Tables </br>
 Lab 8 - Kattis </br>
 Lab 9 - Recursion Word-check </br>
 Lab 10 - Molecule Weigths</br>
+</br>
+All labs made in collaboration with Filip Stål
+</br>
+https://github.com/fstal/
